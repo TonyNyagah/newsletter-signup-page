@@ -47,6 +47,6 @@ Start the server
 
 ## Deployment
 
-This project can be easily deployed on various platforms.
-
-The guide for deploying a Nodejs app to Heroku can be found here: https://devcenter.heroku.com/articles/deploying-nodejs.
+This project can be easily deployed on various platforms including:
+* Heroku: https://devcenter.heroku.com/articles/deploying-nodejs.
+* Render: https://render.com/docs/deploy-node-express-app.
